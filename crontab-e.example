@@ -1,0 +1,1 @@
+* * * * * su root -c "cd /projects/tg_private_forward_tool/; python3 main.py >> main.log"
